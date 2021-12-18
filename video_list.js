@@ -1,0 +1,1 @@
+video_list = ['/video/is快乐小狗！.mp4', '/video/一些记录.mp4', '/video/传播视频不是本人，已报案，不信谣不传谣.mp4', '/video/冬天快来快来 快来.mp4', '/video/我想和你.mp4', '/video/我的技术，可以当你的ADC吗？.mp4', '/video/枫的最后一句。.mp4', '/video/没 人规定一定要长成玫瑰.mp4', '/video/🍰～.mp4']
